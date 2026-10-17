@@ -78,7 +78,7 @@ export default defineConfig({
 
     footer: {
       message: 'Notes-style PHP tutorial for front-end folks',
-      copyright: 'Copyright © 2026-present Łukasz Kuś. All rights reserved.',
+      copyright: 'Copyright © 2026-present Łukasz Kupś. All rights reserved.',
     },
   },
 })
