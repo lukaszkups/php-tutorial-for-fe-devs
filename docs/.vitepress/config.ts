@@ -73,7 +73,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lukaszkups' },
+      { icon: 'github', link: 'https://github.com/lukaszkups/php-tutorial-for-fe-devs' },
     ],
 
     footer: {
