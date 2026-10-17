@@ -1,0 +1,13 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.DS_Store
+*.log
+.env
+vendor/
+composer.lock
+examples/**/vendor/
+examples/**/composer.lock
+examples/**/.phpunit.cache/
+*.sqlite
+
